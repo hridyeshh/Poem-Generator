@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Poem Generator</string>
+    <string name="action_go">Go</string>
+    <string name="baking_title">Baking with Gemini</string>
+    <string name="label_prompt">Prompt</string>
+    <string name="prompt_placeholder">Provide a recipe for the baked goods in the image</string>
+    <string name="image1_description">Cupcake</string>
+    <string name="image2_description">Cookies</string>
+    <string name="image3_description">Cake</string>
+    <string name="input">"Write a beautiful poem considering the emotion, occasion and person given in the inputs"</string>
+    <string name="results_placeholder">(Results will appear here)</string>
+    <string name="poem">Poem Generator</string>
+    <string name="emotion">Tell us the emotion you are trying to convey</string>
+    <string name="occasion">Tell us the occasion</string>
+    <string name="person">Whom you are writing this poem to</string>
+    <string name="label_emotion">Enter your emotion</string>
+    <string name="label_occasion">Enter the occasion</string>
+    <string name="label_person">For whom you are writing</string>
+</resources>
